@@ -70,7 +70,7 @@ Welcome to open an issue or make a pull request!
 + Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.15036).
 + Is ChatGPT a Good Recommender? A Preliminary Study, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.10149).
 + Evaluating ChatGPT as a Recommender System: A Rigorous Approach, arxiv 2023, [[paper]](https://arxiv.org/abs/2309.03613).
-+ Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences, RecSys 2023 Short Paper, [[paper]](https://arxiv.org/abs/2307.14225).
++ [x] Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences, RecSys 2023 Short Paper, [[paper]](https://arxiv.org/abs/2307.14225).
 + Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation, RecSys 2023 Short Paper, [[paper]](https://arxiv.org/abs/2305.07609), [[code]](https://github.com/jizhi-zhang/FaiRLLM).
 + Uncovering ChatGPT's Capabilities in Recommender Systems, RecSys 2023 LBR, [[paper]](https://arxiv.org/abs/2305.02182),[[code]](https://github.com/rainym00d/LLM4RS).
   
