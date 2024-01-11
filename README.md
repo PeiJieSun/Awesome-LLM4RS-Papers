@@ -40,7 +40,7 @@ Welcome to open an issue or make a pull request!
 + Zero-Shot Recommendations with Pre-Trained Large Language Models for Multimodal Nudging, arxiv 2023, [[paper]](https://arxiv.org/abs/2309.01026).
 + [x] LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, arxiv 2023, [[paper]](https://github.com/Yueeeeeeee/LlamaRec/blob/main/media/paper.pdf), [[code]](https://github.com/Yueeeeeeee/LlamaRec).
 + [x] Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences, Recsys 2023, [[paper]](https://arxiv.org/abs/2307.14225).
-+ CoLLM: Integrating Collaborative Embeddings into Large Language Models for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.19488).
++ [x] CoLLM: Integrating Collaborative Embeddings into Large Language Models for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.19488).
 + [x] Large Language Model Augmented Narrative Driven Recommendations, RecSys 2023 Short Paper, [[paper]](https://arxiv.org/abs/2306.02250).
 + [x] Leveraging Large Language Models for Sequential Recommendation, RecSys 2023 LBR, [[paper]](https://arxiv.org/abs/2309.09261), [[code]](https://github.com/dh-r/LLM-Sequential-Recommendation).
 + [x] ONCE: Boosting Content-based Recommendation with Both Open- and Closed-source Large Language Models, WSDM 2024, [[paper]](https://arxiv.org/abs/2305.06566), [[code]](https://github.com/Jyonn/ONCE).
