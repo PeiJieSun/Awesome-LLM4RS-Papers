@@ -14,7 +14,7 @@ Welcome to open an issue or make a pull request!
 + Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System, arxiv 2023, [[paper]](https://arxiv.org/abs/2303.14524).
 + GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03879).
 + [x] TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation, RecSys 2023 Short Paper, [[paper]](https://arxiv.org/abs/2305.00447), [[code]](https://github.com/SAI990323/TALLRec).
-+ Privacy-Preserving Recommender Systems with Synthetic Query Generation using Differentially Private Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.05973).
++ [x] Privacy-Preserving Recommender Systems with Synthetic Query Generation using Differentially Private Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.05973).
 + Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.07001).
 + A First Look at LLM-Powered Generative News Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.06566).
 + Sparks of Artificial General Recommender (AGR): Early Experiments with ChatGPT, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.04518).
