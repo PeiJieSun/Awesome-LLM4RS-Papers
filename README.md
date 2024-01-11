@@ -21,8 +21,8 @@ Welcome to open an issue or make a pull request!
 + [x] Zero-Shot Next-Item Recommendation using Large Pretrained Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03153), [[code]](https://github.com/AGI-Edgerunners/LLM-Next-Item-Rec).
 + [x] Do LLMs Understand User Preferences? Evaluating LLMs On User Rating Prediction, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.06474).
 + Large Language Models are Zero-Shot Rankers for Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.08845), [[code]](https://github.com/RUCAIBox/LLMRank).
-+ Leveraging Large Language Models in Conversational Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.07961).
-+ Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.13112), [[code]](https://github.com/RUCAIBox/iEvaLM-CRS).
++ [x] Leveraging Large Language Models in Conversational Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.07961).
++ [x] Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.13112), [[code]](https://github.com/RUCAIBox/iEvaLM-CRS).
 + PALR: Personalization Aware LLMs for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.07622).
 + Prompt Tuning Large Language Models on Personalized Aspect Extraction for Recommendations, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.01475).
 + A Preliminary Study of ChatGPT on News Recommendation: Personalization, Provider Fairness, Fake News, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.10702).
@@ -35,7 +35,7 @@ Welcome to open an issue or make a pull request!
 + LLMRec: Benchmarking Large Language Models on Recommendation Task, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.12241),[[code]](https://github.com/williamliujl/LLMRec).
 + Zero-Shot Recommendations with Pre-Trained Large Language Models for Multimodal Nudging, arxiv 2023, [[paper]](https://arxiv.org/abs/2309.01026).
 + [x] Prompt Distillation for Efficient LLM-based Recommendation, CIKM 2023, [[paper]](https://lileipisces.github.io/files/CIKM23-POD-paper.pdf), [[code]](https://github.com/lileipisces/POD).
-+ Large Language Models as Zero-Shot Conversational Recommenders, CIKM 2023, [[paper]](https://arxiv.org/abs/2308.10053), [[code]](https://github.com/AaronHeee/LLMs-as-Zero-Shot-Conversational-RecSys).
++ [x] Large Language Models as Zero-Shot Conversational Recommenders, CIKM 2023, [[paper]](https://arxiv.org/abs/2308.10053), [[code]](https://github.com/AaronHeee/LLMs-as-Zero-Shot-Conversational-RecSys).
 + Leveraging Large Language Models (LLMs) to Empower Training-Free Dataset Condensation for Content-Based Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.09874).
 + Zero-Shot Recommendations with Pre-Trained Large Language Models for Multimodal Nudging, arxiv 2023, [[paper]](https://arxiv.org/abs/2309.01026).
 + [x] LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, arxiv 2023, [[paper]](https://github.com/Yueeeeeeee/LlamaRec/blob/main/media/paper.pdf), [[code]](https://github.com/Yueeeeeeee/LlamaRec).
