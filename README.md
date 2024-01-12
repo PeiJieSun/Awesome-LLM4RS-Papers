@@ -31,7 +31,7 @@ Welcome to open an issue or make a pull request!
 + Generative Job Recommendations with Large Language Model, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.02157).
 + Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.05722).
 + LLM-Rec: Personalized Recommendation via Prompting Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.15780).
-+ A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.08434).
++ [x] A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.08434).
 + [x] LLMRec: Benchmarking Large Language Models on Recommendation Task, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.12241),[[code]](https://github.com/williamliujl/LLMRec).
 + [x] Prompt Distillation for Efficient LLM-based Recommendation, CIKM 2023, [[paper]](https://lileipisces.github.io/files/CIKM23-POD-paper.pdf), [[code]](https://github.com/lileipisces/POD).
 + [x] Large Language Models as Zero-Shot Conversational Recommenders, CIKM 2023, [[paper]](https://arxiv.org/abs/2308.10053), [[code]](https://github.com/AaronHeee/LLMs-as-Zero-Shot-Conversational-RecSys).
