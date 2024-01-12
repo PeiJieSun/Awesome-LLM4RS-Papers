@@ -47,7 +47,7 @@ Welcome to open an issue or make a pull request!
 + LLaRA: Aligning Large Language Models with Sequential Recommenders, arxiv 2023, [[paper]](https://arxiv.org/abs/2312.02445), [[code]](https://github.com/ljy0ustc/LLaRA).
 + LLM4Vis: Explainable Visualization Recommendation using ChatGPT, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.07652), [[code]](https://github.com/demoleiwang/LLM4Vis).
 + E4SRec: An Elegant Effective Efficient Extensible Solution of Large Language Models for Sequential Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2312.02443), [[code]](https://github.com/HestiaSky/E4SRec/).
-+ Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2311.09049), [[code]](https://github.com/RUCAIBox/LC-Rec/).
++ [x] Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2311.09049), [[code]](https://github.com/RUCAIBox/LC-Rec/).
 
 
 ### Agent4Rec
