@@ -33,7 +33,6 @@ Welcome to open an issue or make a pull request!
 + LLM-Rec: Personalized Recommendation via Prompting Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.15780).
 + A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.08434).
 + LLMRec: Benchmarking Large Language Models on Recommendation Task, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.12241),[[code]](https://github.com/williamliujl/LLMRec).
-+ Zero-Shot Recommendations with Pre-Trained Large Language Models for Multimodal Nudging, arxiv 2023, [[paper]](https://arxiv.org/abs/2309.01026).
 + [x] Prompt Distillation for Efficient LLM-based Recommendation, CIKM 2023, [[paper]](https://lileipisces.github.io/files/CIKM23-POD-paper.pdf), [[code]](https://github.com/lileipisces/POD).
 + [x] Large Language Models as Zero-Shot Conversational Recommenders, CIKM 2023, [[paper]](https://arxiv.org/abs/2308.10053), [[code]](https://github.com/AaronHeee/LLMs-as-Zero-Shot-Conversational-RecSys).
 + [x] Leveraging Large Language Models (LLMs) to Empower Training-Free Dataset Condensation for Content-Based Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.09874).
