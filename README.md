@@ -45,7 +45,7 @@ Welcome to open an issue or make a pull request!
 + [x] Leveraging Large Language Models for Sequential Recommendation, RecSys 2023 LBR, [[paper]](https://arxiv.org/abs/2309.09261), [[code]](https://github.com/dh-r/LLM-Sequential-Recommendation).
 + [x] ONCE: Boosting Content-based Recommendation with Both Open- and Closed-source Large Language Models, WSDM 2024, [[paper]](https://arxiv.org/abs/2305.06566), [[code]](https://github.com/Jyonn/ONCE).
 + LLaRA: Aligning Large Language Models with Sequential Recommenders, arxiv 2023, [[paper]](https://arxiv.org/abs/2312.02445), [[code]](https://github.com/ljy0ustc/LLaRA).
-+ LLM4Vis: Explainable Visualization Recommendation using ChatGPT, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.07652), [[code]](https://github.com/demoleiwang/LLM4Vis).
++ [x] LLM4Vis: Explainable Visualization Recommendation using ChatGPT, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.07652), [[code]](https://github.com/demoleiwang/LLM4Vis).
 + [x] E4SRec: An Elegant Effective Efficient Extensible Solution of Large Language Models for Sequential Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2312.02443), [[code]](https://github.com/HestiaSky/E4SRec/).
 + [x] Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2311.09049), [[code]](https://github.com/RUCAIBox/LC-Rec/).
 
