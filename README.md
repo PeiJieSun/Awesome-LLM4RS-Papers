@@ -23,9 +23,9 @@ Welcome to open an issue or make a pull request!
 + Large Language Models are Zero-Shot Rankers for Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.08845), [[code]](https://github.com/RUCAIBox/LLMRank).
 + [x] Leveraging Large Language Models in Conversational Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.07961).
 + [x] Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.13112), [[code]](https://github.com/RUCAIBox/iEvaLM-CRS).
-+ PALR: Personalization Aware LLMs for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.07622).
++ [x] PALR: Personalization Aware LLMs for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.07622).
 + Prompt Tuning Large Language Models on Personalized Aspect Extraction for Recommendations, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.01475).
-+ A Preliminary Study of ChatGPT on News Recommendation: Personalization, Provider Fairness, Fake News, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.10702).
++ [x] A Preliminary Study of ChatGPT on News Recommendation: Personalization, Provider Fairness, Fake News, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.10702).
 + [x] Large Language Model for Generative Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.00457).
 + [x] GenRec: Large Language Model for Generative Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.00457).
 + [x] Generative Job Recommendations with Large Language Model, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.02157).
