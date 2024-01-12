@@ -28,7 +28,7 @@ Welcome to open an issue or make a pull request!
 + A Preliminary Study of ChatGPT on News Recommendation: Personalization, Provider Fairness, Fake News, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.10702).
 + Large Language Model for Generative Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.00457).
 + [x] GenRec: Large Language Model for Generative Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.00457).
-+ Generative Job Recommendations with Large Language Model, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.02157).
++ [x] Generative Job Recommendations with Large Language Model, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.02157).
 + [x] Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.05722).
 + [x] LLM-Rec: Personalized Recommendation via Prompting Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.15780).
 + [x] A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.08434).
